@@ -1,9 +1,14 @@
-author = "$STR_UAG_MissionAuthor";
-onLoadName = "$STR_UAG_MissionName";
-onLoadMission = "$STR_UAG_MissionDescription";
-loading = "$STR_UAG_MissionImagePath";
-overviewPicture = "$STR_UAG_MissionImagePath";
-overviewText = "$STR_UAG_MissionDescription";
+// put your name here!
+author = "UAG Code Monkeys";
+
+// you probably don't want to edit anything below this line
+// ------------------------------------------------------------
+
+onLoadName = "UAG Mission Template";
+onLoadMission = "Wouldn't it be funny if the mission maker didn't change this default description?";
+loading = "loading.jpg";
+overviewPicture = "loading.jpg";
+overviewText = "Wouldn't it be funny if the mission maker didn't change this default description?";
 
 class Header {
 	gameType = "Sandbox";
