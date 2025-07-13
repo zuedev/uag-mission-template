@@ -1,14 +1,18 @@
-// put your name here!
+// name your mission
+onLoadName = "UAG Mission Template";
+
+// description of your mission (both in the lobby and in the briefing)
+onLoadMission = "Wouldn't it be funny if the mission maker didn't change this default description?";
+overviewText = "Wouldn't it be funny if the mission maker didn't change this default description?";
+
+// put your name here
 author = "UAG Code Monkeys";
 
 // you probably don't want to edit anything below this line
 // ------------------------------------------------------------
 
-onLoadName = "UAG Mission Template";
-onLoadMission = "Wouldn't it be funny if the mission maker didn't change this default description?";
-loading = "loading.jpg";
-overviewPicture = "loading.jpg";
-overviewText = "Wouldn't it be funny if the mission maker didn't change this default description?";
+loading = "image.jpg";
+overviewPicture = "image.jpg";
 
 class Header {
 	gameType = "Sandbox";
